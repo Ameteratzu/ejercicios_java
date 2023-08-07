@@ -1,4 +1,6 @@
 #EJERCICIOS BASICOS REALIZADOS EN JAVA
+EJERCICIOS DE TALLER DE PROGRAMACIÓN DE LA UTP (UNIVERSIDAD TECNOLOGICA DEL PERU)
+REALIZADOS EL 2022
 Puedes utilizar estos ejercicios sencillos para alguna tarea
 o como ejemplo
 :D!!
